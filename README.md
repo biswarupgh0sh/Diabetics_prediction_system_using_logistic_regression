@@ -3,6 +3,7 @@
 This project uses **machine learning** to build a predictive model using **Logistic Regression**.
 
 ## Dataset
+-  [My Dataset](https://www.dropbox.com/scl/fi/0uiujtei423te1q4kvrny/diabetes.csv?rlkey=20xvytca6xbio4vsowi2hdj8e&e=1&dl=0)
 - Replace this with your dataset link or description
 - Features: Numerical or categorical depending on your data
 
